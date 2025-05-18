@@ -7,7 +7,7 @@ This Python tool provides a user-friendly graphical user interface (GUI) built w
 - **GUI Interface**: Built with Tkinter for easy interaction. No need for command-line operations.
 - **Custom Prefix**: Allows the user to define a prefix for the renamed files.
 - **Starting Number**: The user can choose the starting number for the renamed files.
-- **Optional File Extension**: The tool can filter files by extension (e.g., `.txt`, `.jpg`).
+- **Optional File Extension**: The tool can filter files by extension (e.g., `.txt`, `.jpg`,etc..).
 - **Batch Renaming**: Renames all files in the selected directory in bulk.
   
 ## Requirements
